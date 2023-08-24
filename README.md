@@ -12,4 +12,5 @@ Typically, a product and service-based business always need their Data Scientist
 their future sales with every step they take to manipulate the cost of advertising their
 product. so this task will accomplish the above said requirement using python machine learning techniques.
 
-**Project Link : **https://colab.research.google.com/drive/1b_kEqyRnEBEfFqLoT2LNZlZSh3hbSABg?usp=sharing
+
+**Project Link :**  https://colab.research.google.com/drive/1b_kEqyRnEBEfFqLoT2LNZlZSh3hbSABg?usp=sharing
