@@ -13,4 +13,6 @@ their future sales with every step they take to manipulate the cost of advertisi
 product. so this task will accomplish the above said requirement using python machine learning techniques.
 
 
+**Data Set Link:** https://github.com/namankabadi/TASK_03_Sales_Prediction_Using_PYTHON_ML/blob/main/Advertising.csv
+
 **Project Link :**  https://colab.research.google.com/drive/1b_kEqyRnEBEfFqLoT2LNZlZSh3hbSABg?usp=sharing
